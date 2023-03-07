@@ -45,7 +45,7 @@ a{
 }
 .boja{
  display: flex;
- width: 33.33vw;
+ width: 33.33%;
  height: 30vh;
  background-color: black;
  background-size: cover;
