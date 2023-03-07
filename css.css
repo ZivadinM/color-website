@@ -675,3 +675,8 @@ margin-bottom: 20PX;
   font-size: 1.8REM;
 }
 }
+@media screen and (min-width: 1578px){
+  .boja{
+    width: 33.33wv;
+  }
+}
