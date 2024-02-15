@@ -15,9 +15,6 @@ This project is a part of a school assignment focusing on color exploration. The
     - [Installation](#installation)
   - [Usage](#usage)
   - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
   - [Contact](#contact)
 
 ## Features
